@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288132322009",
+    "project_id": "onlinemusic-d47cf",
+    "storage_bucket": "onlinemusic-d47cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288132322009:android:1119e750de53b68355a4c8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNsH4UvJg63640f-fxRuWajdF_MFNb9ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
